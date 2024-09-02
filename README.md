@@ -11,6 +11,7 @@
 - [Decision Trees](https://metehanozdeniz.com/machine-learning/2024-08-31-decision-trees/)
 - [Support Vector Regression &lpar;SVR&rpar; Example](https://metehanozdeniz.com/machine-learning/2024-08-09-support-vector-regression/)
 - [Polynomial Regression Example](https://metehanozdeniz.com/machine-learning/2024-08-08-polynomial-regression-example/)
+- [Multiple Linear Regression Example](https://metehanozdeniz.com/machine-learning/2024-08-07-multiple-linear-regression-example/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
