@@ -7,11 +7,11 @@
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Naive Bayes](https://metehanozdeniz.com/machine-learning/2024-09-23-naive-bayes/)
 - [Support Vector Machine &lpar;SVM&rpar;](https://metehanozdeniz.com/machine-learning/2024-09-21-support-vector-machine/)
 - [K-NN &lpar;K-Nearest Neighbors&rpar;](https://metehanozdeniz.com/machine-learning/2024-09-07-k-nn/)
 - [Logistic Regression](https://metehanozdeniz.com/machine-learning/2024-09-04-logistic-regression/)
 - [Random Forest](https://metehanozdeniz.com/machine-learning/2024-09-01-random-forest/)
-- [Decision Trees](https://metehanozdeniz.com/machine-learning/2024-08-31-decision-trees/)
 <!-- BLOG-POST-LIST:END -->
 ---
 <h3 align="left">Connect with me:</h3>
