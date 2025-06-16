@@ -7,11 +7,11 @@
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Sign Language Recognition](https://metehanozdeniz.com/projects/deep-learning/2025-06-05-sign-language-recognition/)
 - [Brain Tumor Classification](https://metehanozdeniz.com/projects/deep-learning/2024-12-15-brain-tumor-classification/)
 - [Energy Demand Estimation with PSO Algorithm](https://metehanozdeniz.com/projects/2024-10-28-energy-demand-estimation-with-pso-algorithms/)
 - [Naive Bayes](https://metehanozdeniz.com/machine-learning/2024-09-23-naive-bayes/)
 - [Support Vector Machine &lpar;SVM&rpar;](https://metehanozdeniz.com/machine-learning/2024-09-21-support-vector-machine/)
-- [K-NN &lpar;K-Nearest Neighbors&rpar;](https://metehanozdeniz.com/machine-learning/2024-09-07-k-nn/)
 <!-- BLOG-POST-LIST:END -->
 ---
 <h3 align="left">Connect with me:</h3>
